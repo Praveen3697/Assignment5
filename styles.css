@@ -1,0 +1,26 @@
+/* Implement your CSS here */
+h1{
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    font-weight: bold;
+    color: crimson;
+    text-decoration: underline;
+}
+.mainDiv{
+    box-shadow: 0 5px 25px 0 rgb(199, 194, 194);
+}
+#employeeCard{
+    padding: 10px;
+    margin: 10px;
+}
+
+.card.product {
+	margin: 10px 0;
+}
+
+#mainDiv{
+    position: relative;
+    top:50%;
+    left:37%;
+}
